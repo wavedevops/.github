@@ -25,7 +25,7 @@
 - How DNS works
 - Symlink vs Hardlink
 - Linux Folder Structure
-
+---
 ### Shell Script
 
 #### Session-9 (15-APR-2024)
