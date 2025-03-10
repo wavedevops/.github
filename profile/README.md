@@ -26,7 +26,7 @@
 - Symlink vs Hardlink
 - Linux Folder Structure
 ---
-### Shell Script
+# Shell Script
 
 #### Session-9 (15-APR-2024)
 - Shell introduction
@@ -66,7 +66,7 @@
 - Sending Gmail from Linux Server
 - Shell Disadvantages
 ---
-### Ansible
+# Ansible
 
 #### Session-15 (25-APR-2024)
 - Push vs Pull
@@ -108,7 +108,7 @@
 - Ansible EC2
 - Ansible vs Terraform
 ---
-### Terraform
+# Terraform
 
 #### Session-21 (06-MAY-2024)
 - IaaC advantages
@@ -247,7 +247,7 @@
 </div>
 <div style="flex: 1; padding: 10px; border: 1px solid black;">
 
-## GIT
+# GIT
 
 #### Session-39 (03-JUNE-2024)
 - Introduction to GIT
@@ -274,7 +274,7 @@
 
 ---
 
-## Jenkins
+# Jenkins
 
 #### Session-43 (07-JUNE-2024)
 - Installation
@@ -320,7 +320,7 @@
 
 ---
 
-## Docker
+# Docker
 
 #### Session-49 (18-JUNE-2024)
 - Physical vs Virtualization vs Containerization
@@ -355,7 +355,7 @@
 
 ---
 
-## Kubernetes
+# Kubernetes
 
 #### Session-55 (26-JUNE-2024)
 - Docker disadvantages
@@ -450,8 +450,8 @@
     - Non-Prod Pipeline
     - Prod Pipeline
 # 78S Content
-
-## Roboshop
+---
+# Roboshop
 
 #### Session-70 (22-JULY-2024)
 - Roboshop Manual Creation
