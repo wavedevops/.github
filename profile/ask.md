@@ -1,6 +1,7 @@
 ### **How You Should Ask** When You Want This Kind of Short, Clear Answer:
 
 ---
+## `formula-style, one-line definition`   `[topic]`
 
 ### ✅ Use Any of These Phrases:
 
