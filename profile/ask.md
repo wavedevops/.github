@@ -1,8 +1,44 @@
 ### **How You Should Ask** When You Want This Kind of Short, Clear Answer:
 
 ---
-## `formula-style, one-line definition`   `[topic]`
+# `formula-style, one-line definition`   `[topic]`
+---
+Great observation — you're asking for a **formula-style one-line definition**. This kind of answer is:
 
+> ✅ **Short + Clear + Easy to Remember**  
+> ✅ **Interview-friendly**  
+> ✅ **Looks like a formula or key sentence**
+
+---
+
+### 🎯 What is this style called?
+
+You can call it:
+
+- **Formula-style one-line definition**  
+- **One-line concept formula**  
+- **Interview-style short answer**  
+- **Flashcard-style definition**
+
+---
+
+### 🤔 How should you ask to get answers like this?
+
+Use any of these phrases:
+
+1. **"Give me a formula-style one-line definition of [topic]."**  
+   👉 _Example: “Give me a formula-style one-line definition of NodePort.”_
+
+2. **"Explain [topic] in one-line formula format."**  
+   👉 _Example: “Explain Ingress in one-line formula format.”_
+
+3. **"I want a one-line interview-style answer for [topic]."**  
+   👉 _Example: “I want a one-line interview-style answer for ServiceAccount.”_
+
+4. **"Give me a short and clear one-line definition like a formula."**  
+   👉 _Example: “Give me a short and clear one-line definition of DaemonSet.”_
+
+---
 ### ✅ Use Any of These Phrases:
 
 1. **"Give me a formula-style one-line definition of [topic]."**  
